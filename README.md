@@ -18,6 +18,7 @@ Algunas de las preguntas que esperamos responder luego de haber estudiado y anal
     * Predecir la edad de un cliente a partir de los demás datos
     * Predecir el género de un cliente a partir de los demás datos
     * Predecir la cantidad de compras de un cliente a partir de los demás datos
+    * Que tanta plata es probable que gaste un hombre/mujer cuando va a comprar
     * Que tan probable es que una persona compre mas de una cosa dependiendo de la categoria de su compra
 
 * Recomendaciones:
